@@ -1,1 +1,3 @@
-﻿https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
