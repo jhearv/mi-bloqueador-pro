@@ -1,0 +1,34 @@
+# ==============================================================================
+# 1. ANUNCIOS BASE Y PUBLICIDAD GENERAL (EasyList & AdGuard)
+# ==============================================================================
+https://easylist.to/easylist/easylist.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/onn.txt
+
+# ==============================================================================
+# 2. RASTREADORES, TELEMETRÍA Y PRIVACIDAD (EasyPrivacy & Disconnect)
+# ==============================================================================
+https://easylist.to/easylist/easyprivacy.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+
+# ==============================================================================
+# 3. ANTI-POPUPS, REDIRECCIONES Y ANUNCIOS AGRESIVOS DE VÍDEO / ANIME
+# ==============================================================================
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+
+# ==============================================================================
+# 4. MOLESTIAS, COOKIES Y ELEMENTOS EMERGENTES (uBlock & AdGuard Annoyances)
+# ==============================================================================
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/popups.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/cookie.txt
+
+# ==============================================================================
+# 5. DOMINIOS MALICIOSOS, PHISHING Y MINERÍA DE CRIPTOMONEDAS
+# ==============================================================================
+https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
